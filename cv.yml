@@ -1,0 +1,16 @@
+ name: cv
+ channels:
+   - conda-forge
+   - defaults
+ dependencies:
+   - python=3.6
+   - numpy
+   - matplotlib
+   - scipy
+   - scikit-image
+   - scikit-learn
+   - jupyter
+   - ipython
+   - pillow
+   - pandas
+   - opencv
